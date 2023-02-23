@@ -1,6 +1,6 @@
 # air_adjusting
 
-The device works as a air-conditioner in order to adjust serveral parameter such as temparature, humidity./n
+The device works as a air-conditioner in order to adjust serveral parameter such as temparature, humidity.
 
 Principle:
   - If the temparature inside the room is greater than 30, then the DC will run on taking out in
