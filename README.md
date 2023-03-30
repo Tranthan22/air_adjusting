@@ -1,3 +1,6 @@
+Product demo image
+![a2859c30c1da1b8442cb](https://user-images.githubusercontent.com/99072420/220876589-fb1872e0-acdc-4dd6-9a1a-3ee2cdd9f7d7.jpg)
+
 #Identifying the Problem
 
 Nowadays, the demand for indoor greenhouse gardening is increasing. To grow healthy plants, it is important to nurture them in a suitable living environment. High humidity or excessively high or low temperatures can cause stress to plants. When plants are stressed, their resistance is weakened, which creates favorable conditions for pest infestation. A well-controlled environment with optimal temperature and humidity will increase crop productivity and accelerate water evaporation for nutrient absorption, leading to better quality products and enhanced growth cycle control.
@@ -32,4 +35,4 @@ We will use a humidity sensor to measure the humidity of the environment. There 
 
 In conclusion, designing a circuit to measure temperature and humidity for greenhouse plants is an essential requirement for indoor gardening. By measuring the environmental parameters and adjusting the temperature and humidity, we can provide a
 
-![a2859c30c1da1b8442cb](https://user-images.githubusercontent.com/99072420/220876589-fb1872e0-acdc-4dd6-9a1a-3ee2cdd9f7d7.jpg)
+
